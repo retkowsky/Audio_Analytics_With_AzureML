@@ -1,4 +1,4 @@
-# Audio Analytics with Azure AutoML for Images
+# Audio Analytics with Azure ML and AutoML for Images
 
 Audio processing can consist of extracting audio signal information into spectrograms (time vs frequency vs Db) images that we can use to build a custom vision model with Azure using AutoML for Images. 
 
@@ -34,9 +34,7 @@ AutoML for Images is currently in Public Preview.
 
 Documentation: https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
 
-Note: All these Python notebooks were made for demo purposes. They were not designed for production usage. This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
-
-
+### Note: All these Python notebooks were made for demo purposes. They were not designed for production usage. This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
 
 ### 22-Mar-2022
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
