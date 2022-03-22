@@ -39,6 +39,6 @@ Note: All these Python notebooks were made for demo purposes. They were not desi
 
 
 ### 22-Mar-2022
-### Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 
 
