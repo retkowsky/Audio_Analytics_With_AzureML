@@ -4,7 +4,7 @@ Audio processing can consist of extracting audio signal information into spectro
 
 We can as well extract some audio components and use a generic classification model with Azure ML and its AutoML features.
 
-Demo1: Music Genre Prediction
+## Demo1: Music Genre Prediction
 
 Problem: 
 Is it possible to predict the music genre of an audio file?
