@@ -6,17 +6,7 @@ We can as well extract some audio components and use a generic classification mo
 
 <img src="image.jpg">
 
-## Demo 1: Music Genre Prediction
-
-### Problem
-Is it possible to predict the music genre of an audio file?
-
-### Solution
-We will build spectrograms for all the training music files
-Then we will use these images to build, train and deploy an Image Computer Vision model with AutoML for Images
-We will test the model to predict the genre based on an audio file
-
-## Demo 2: Acoustic Anomaly Detection for Machine Sounds based on Images
+## Demo 1: Acoustic Anomaly Detection for Machine Sounds based on Images
 
 ### Problem
 Is it possible to detect an anomaly (not normal noise) using a machine sound file?
@@ -46,5 +36,5 @@ http://aka.ms/AutoMLforImagesTutorial
 ### Note
 All these Python notebooks were made for demo purposes. They were not designed for production usage. This feature is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
 
-22-Mar-2022
+31-May-2022
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
