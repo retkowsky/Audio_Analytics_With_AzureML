@@ -12,10 +12,10 @@ We can as well extract some audio components and use a generic classification mo
 Is it possible to detect an anomaly (not normal noise) using a machine sound file?
 
 ### Solution
-We will collect some normal and anomaly sounds files
-We will generate spectrograms for all the files 
-We will build and train a two-class classification model (Anomaly vs no anomaly)
-We will test the anomaly detection model
+- We will collect some normal and anomaly sounds files
+- We will generate spectrograms for all the files 
+- We will build and train a two-class classification model (Anomaly vs no anomaly)
+- We will test the anomaly detection model
 
 ## Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
