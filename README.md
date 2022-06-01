@@ -6,10 +6,10 @@ We can extract as well some audio features and use a generic classification mode
 
 <img src="image.jpg" height = 400>
 
-## Audio Analytics with Azure Presentation:<br>
+## Audio Analytics with Azure Presentation<br>
 [Audio Analytics.pdf](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/Audio%20Analytics.pdf)
 
-## AI Show Audio Analytics demo:<br>
+## AI Show Audio Analytics demo<br>
 <img src="AIShow.jpg" height = 400>
 https://aka.ms/AIShow/AudioAnalytics
 <br>
@@ -27,7 +27,18 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 - We can generate audio features and use some usual classification techniques like SVM. We can levarage AutoML Classification features with Azure ML to ensure to find the best model.
 - We can deploy the models using these techniques in Azure or on the Edge to test the anomaly detection models we made.
 
-All the Python notebooks are available here.
+## All the Python notebooks are available here:
+[00. Azure ML workspace.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/00.%20Azure%20ML%20workspace.ipynb)
+[01. Generating audio samples.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/01.%20Generating%20audio%20samples.ipynb)
+[02. Audio Statistics.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/02.%20Audio%20Statistics.ipynb)
+[03. Audio Analysis.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/03.%20Audio%20Analysis.ipynb)
+[04. Spectograms for CV.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/04.%20Spectograms%20for%20CV.ipynb)
+[05. Calling the Azure Custom Vision model from an audio file spectogram.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/05.%20%20Calling%20the%20Azure%20Custom%20Vision%20model%20from%20an%20audio%20file%20spectogram.ipynb)
+[06. AutoML for Images - Image Classification.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/06.%20AutoML%20for%20Images%20-%20Image%20Classification.ipynb)
+[07. Calling AutoML CV model.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb)
+[08. Anomaly Sound Classification - audio features.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb)
+[09. Batch Audio Features Extraction using Librosa.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%20Audio%20Features%20Extraction%20using%20Librosa.ipynb)
+[10. AutoML Classification using audio fe](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb)
 
 ## Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
