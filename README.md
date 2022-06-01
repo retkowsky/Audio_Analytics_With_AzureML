@@ -6,7 +6,7 @@ We can extract some audio features as well and use a generic classification mode
 
 ## AI Show Audio Analytics demo<br>
 <a href="https://aka.ms/AIShow/AudioAnalytics">
-<img alt="Qries" src="AIShow.jpg" width=150" height="400">       
+<img alt="AI Show Audio Analytics" src="AIShow.jpg" height="400">       
 
 ## Audio Analytics with Azure Presentation<br>
 Document is available here:
