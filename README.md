@@ -30,18 +30,14 @@ With the preview of AutoML for Images, there will be added support for Vision ta
 
 AutoML for Images is currently in Public Preview.
 
-AutoML for Images documentation:
-http://aka.ms/AutoMLforImagesDoc
-
-AutoML for Images Algorithms:
-http://aka.ms/AutoMLforImagesAlgorithms
-
-AutoML for Images Tutorial:
-http://aka.ms/AutoMLforImagesTutorial
+- AutoML for Images documentation: http://aka.ms/AutoMLforImagesDoc
+- AutoML for Images Algorithms: http://aka.ms/AutoMLforImagesAlgorithms
+- AutoML for Images Tutorial: http://aka.ms/AutoMLforImagesTutorial
 
 ### Note
 All these Python notebooks were made for demo purposes. They were not designed for production usage. AutoML for Images is currently in public preview. This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. 
-For more information, see Supplemental Terms of Use for Microsoft Azure Previews. https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
+For more information, see Supplemental Terms of Use for Microsoft Azure Previews. <br>
+https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/
 
 01-Jun-2022
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
