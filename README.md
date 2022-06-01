@@ -4,7 +4,7 @@ Audio processing can consist of extracting audio signal information into spectro
 
 We can extract as well some audio features and use a generic classification model with Azure ML and its AutoML capabilities to find the best model.
 
-<img src="image.jpg">
+<img src="image.jpg" height = 400>
 
 ## Audio Analytics with Azure Presentation:<br>
 [Audio Analytics.pdf](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/Audio%20Analytics.pdf)
