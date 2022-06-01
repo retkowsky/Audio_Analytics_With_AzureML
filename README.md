@@ -36,7 +36,7 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 [05. Calling the Azure Custom Vision model from an audio file spectogram.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/05.%20%20Calling%20the%20Azure%20Custom%20Vision%20model%20from%20an%20audio%20file%20spectogram.ipynb) <br>
 [06. AutoML for Images - Image Classification.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/06.%20AutoML%20for%20Images%20-%20Image%20Classification.ipynb) <br>
 [07. Calling AutoML CV model.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb) <br>
-[08. Anomaly Sound Classification - audio features.ipynb] (https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb) <br>
+[https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb) <br>
 [09. Batch Audio Features Extraction using Librosa.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%20Audio%20Features%20Extraction%20using%20Librosa.ipynb) <br>
 [10. AutoML Classification using audio fe](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb) <br>
 
