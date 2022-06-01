@@ -2,7 +2,7 @@
 
 Audio processing can consist of extracting audio signal information into spectrograms (time vs frequency vs Db) images that we can use to build a custom vision model with Azure using AutoML for Images. 
 
-We can extract as well some audio features and use a generic classification model with Azure ML and its AutoML capabilities to find the best model.
+We can extract some audio features as well and use a generic classification model with Azure ML and its AutoML capabilities to find the best model.
 
 <img src="image.jpg" height = 400>
 
@@ -24,7 +24,7 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 - We can collect some normal and non-normal (anomaly) sounds files as a training database.
 - We can generate spectrograms for all the files for the two categories we want to predict (anomaly / no anomaly).
 - We will build and train an image classification model (anomaly / no anomaly) using computer vision algorithms with Azure Custom Vision and Azure AutoML for Images using the spectograms images.
-- We can generate audio features and use some usual classification techniques like SVM. We can levarage AutoML Classification features with Azure ML to ensure to find the best model.
+- We can generate audio features and use some usual classification techniques like SVM. We can leverage AutoML Classification features with Azure ML to ensure to find the best model.
 - We can deploy the models using these techniques in Azure or on the Edge to test the anomaly detection models we made.
 
 ## All the Python notebooks are available here:
