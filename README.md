@@ -31,18 +31,25 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 
 Settings:<br>
 [00. Azure ML workspace.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/00.%20Azure%20ML%20workspace.ipynb) <br>
+<br>
 Downloading and creation of audio samples:<br>
 [01. Generating audio samples.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/01.%20Generating%20audio%20samples.ipynb) <br>
+<br>
 Audio Statistics:<br>
 [02. Audio Statistics.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/02.%20Audio%20Statistics.ipynb) <br>
+<br>
 Audio Analytics:<br>
 [03. Audio Analysis.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/03.%20Audio%20Analysis.ipynb) <br>
+<br>
 Spectograms generation:<br>
 [04. Spectograms for CV.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/04.%20Spectograms%20for%20CV.ipynb) <br>
+<br>
 Calling Azure Custom Vision models:<br>
 [05. Calling the Azure Custom Vision model from an audio file spectogram.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/05.%20%20Calling%20the%20Azure%20Custom%20Vision%20model%20from%20an%20audio%20file%20spectogram.ipynb) <br>
+<br>
 AutoML for Images:<br>
 [06. AutoML for Images - Image Classification.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/06.%20AutoML%20for%20Images%20-%20Image%20Classification.ipynb) <br>
+<br>
 Calling AutoML deployed model:
 [07. Calling AutoML CV model.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb) <br>
 
