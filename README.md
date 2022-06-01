@@ -38,7 +38,7 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 [07. Calling AutoML CV model.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb) <br>
 [https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb) <br>
 [09. Batch Audio Features Extraction using Librosa.ipynb](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%20Audio%20Features%20Extraction%20using%20Librosa.ipynb) <br>
-[[10. AutoML Classification using audio fe](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb) <br>](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb)
+https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb
 
 ## Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
