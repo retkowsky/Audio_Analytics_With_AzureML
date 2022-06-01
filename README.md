@@ -17,7 +17,7 @@ Is it possible to detect an anomaly (not normal noise) using a machine sound fil
 ### Solution
 - We will collect some normal and anomaly sounds files
 - We will generate spectrograms for all the files 
-- We will build and train a two-class classification model (Anomaly vs no anomaly) using computer vision algorithms with Azure Custom Vision and Azure AutoML for Images.
+- We will build and train a two-class classification model (Anomaly vs no anomaly) using computer vision algorithms with Azure Custom Vision and Azure AutoML for Images using the spectograms images.
 - We will generate audio features and use usual classification techniques like SVM. We will use AutoML for Classification with Azure ML.
 - We will test the anomaly detection models we made.
 
