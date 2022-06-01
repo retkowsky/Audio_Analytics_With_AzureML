@@ -29,37 +29,37 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 
 ## All the Python notebooks are available here:
 
-- Settings:
+- 0. Settings:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/00.%20Azure%20ML%20workspace.ipynb
 
-- Downloading and creation of audio samples:
+- 1. Downloading and creation of audio samples:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/01.%20Generating%20audio%20samples.ipynb
 
-- Audio Statistics:
+- 2. Audio Statistics:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/02.%20Audio%20Statistics.ipynb 
 
-- Audio Analytics:
+- 3. Audio Analytics:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/03.%20Audio%20Analysis.ipynb 
 
-- Spectograms generation:
+- 4. Spectograms generation:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/04.%20Spectograms%20for%20CV.ipynb 
 
-- Calling Azure Custom Vision models:
+- 5. Calling Azure Custom Vision models:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/05.%20%20Calling%20the%20Azure%20Custom%20Vision%20model%20from%20an%20audio%20file%20spectogram.ipynb 
 
-- AutoML for Images:
+- 6. AutoML for Images:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/06.%20AutoML%20for%20Images%20-%20Image%20Classification.ipynb
 
-- Calling AutoML deployed model:
+- 7. Calling AutoML deployed model:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb
 
-- Audio Features:
+- 8. Audio Features:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb
 
-- Audio Features generation:
+- 9. Audio Features generation:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%20Audio%20Features%20Extraction%20using%20Librosa.ipynb
 
-- AutoML for Classification on the audio features:
+- 10. AutoML for Classification on the audio features:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb
 
 ## Azure AutoML
