@@ -6,8 +6,8 @@ We can extract some audio features as well and use a generic classification mode
 
 ## AI Show Audio Analytics demo<br>
 <a href="https://aka.ms/AIShow/AudioAnalytics">
-<img alt="AI Show Audio Analytics" src="AIShow.jpg" height="400">       
-<br>
+<img alt="AI Show Audio Analytics" src="AIShow.jpg" height="400"></a>   
+<br><br>
 https://aka.ms/AIShow/AudioAnalytics <br>
 https://youtu.be/iHL9RmOejdo
 
