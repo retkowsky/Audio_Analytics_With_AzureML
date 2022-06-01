@@ -12,7 +12,7 @@ https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/AudioAnalyti
 ## Demo: Acoustic Anomaly Detection for Machine Sounds based on Images
 
 ### Problem
-Is it possible to detect an anomaly (not normal noise) using a machine sound file?
+Is it possible to detect an anomaly (not normal noise) from an equipment or a machine just using a sound file?
 
 ### Solution
 - We will collect some normal and anomaly sounds files
