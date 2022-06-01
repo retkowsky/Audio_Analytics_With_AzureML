@@ -9,7 +9,7 @@ We can as well extract some audio components and use a generic classification mo
 Document:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/AudioAnalyticsWithAzure.pdf
 
-## Demo 1: Acoustic Anomaly Detection for Machine Sounds based on Images
+## Demo: Acoustic Anomaly Detection for Machine Sounds based on Images
 
 ### Problem
 Is it possible to detect an anomaly (not normal noise) using a machine sound file?
