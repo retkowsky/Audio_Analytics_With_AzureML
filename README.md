@@ -7,7 +7,8 @@ We can extract as well some audio features and use a generic classification mode
 <img src="image.jpg">
 
 Document:
-https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/AudioAnalyticsWithAzure.pdf
+Audio Analytics.pdf
+
 
 ## Demo: Acoustic Anomaly Detection for Machine Sounds based on Images
 
