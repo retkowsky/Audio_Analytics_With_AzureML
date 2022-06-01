@@ -11,6 +11,7 @@ Audio Analytics with Azure Presentation:
 
 AI Show Audio Analytics demo:
 https://aka.ms/AIShow/AudioAnalytics
+<br>
 https://youtu.be/iHL9RmOejdo
 
 ## Demo: Acoustic Anomaly Detection for Machine Sounds based on Images
