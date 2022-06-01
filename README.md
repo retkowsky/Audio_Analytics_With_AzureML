@@ -31,31 +31,36 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 
 - Settings:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/00.%20Azure%20ML%20workspace.ipynb
-<br><br>
+
 - Downloading and creation of audio samples:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/01.%20Generating%20audio%20samples.ipynb
-<br><br>
+
 - Audio Statistics:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/02.%20Audio%20Statistics.ipynb 
-<br><br>
+
 - Audio Analytics:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/03.%20Audio%20Analysis.ipynb 
-<br><br>
+
 - Spectograms generation:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/04.%20Spectograms%20for%20CV.ipynb 
-<br><br>
+
 - Calling Azure Custom Vision models:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/05.%20%20Calling%20the%20Azure%20Custom%20Vision%20model%20from%20an%20audio%20file%20spectogram.ipynb 
-<br><br>
+
 - AutoML for Images:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/06.%20AutoML%20for%20Images%20-%20Image%20Classification.ipynb
-<br> <br>
+
 - Calling AutoML deployed model:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/07.%20Calling%20AutoML%20CV%20model.ipynb
-<br><br>
 
+- Audio Features:
+https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/08.%20Anomaly%20Sound%20Classification%20-%20audio%20features.ipynb
 
+- Audio Features generation:
+https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%20Audio%20Features%20Extraction%20using%20Librosa.ipynb
 
+- AutoML for Classification on the audio features:
+https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb
 
 ## Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
