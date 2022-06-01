@@ -6,10 +6,10 @@ We can extract as well some audio features and use a generic classification mode
 
 <img src="image.jpg">
 
-Audio Analytics with Azure Presentation:
+## Audio Analytics with Azure Presentation:<br>
 [Audio Analytics.pdf](https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/Audio%20Analytics.pdf)
 
-AI Show Audio Analytics demo:
+## AI Show Audio Analytics demo:<br>
 https://aka.ms/AIShow/AudioAnalytics
 <br>
 https://youtu.be/iHL9RmOejdo
