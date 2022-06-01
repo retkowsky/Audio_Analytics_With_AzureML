@@ -27,7 +27,7 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 - We can generate audio features and use some usual classification techniques like SVM. We can leverage AutoML Classification features with Azure ML to ensure to find the best model.
 - We can deploy the models using these techniques in Azure or on the Edge to test the anomaly detection models we made.
 
-## All the Python notebooks are available here:
+### All the Python notebooks are available:
 
 0. Settings:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/00.%20Azure%20ML%20workspace.ipynb
@@ -62,7 +62,7 @@ https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/09.%20Batch%
 10. AutoML for Classification on the audio features:
 https://github.com/retkowsky/Audio_Analytics_With_AzureML/blob/main/10.%20%20AutoML%20Classification%20using%20audio%20features.ipynb
 
-## Azure AutoML
+### Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
 
 With the preview of AutoML for Images, there will be added support for Vision tasks. Data scientists will be able to easily generate models trained on image data for scenarios like Image Classification (multi-class, multi-label), Object Detection and Instance Segmentation.
