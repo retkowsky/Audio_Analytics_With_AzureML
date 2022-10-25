@@ -31,6 +31,8 @@ Is it possible to detect an anomaly (not normal noise) from an equipment or a ma
 - We can deploy the models using these techniques in Azure or on the Edge to test the anomaly detection models we made.
 
 ### All the Python notebooks are available
+All the notebooks are available.
+You need to execute all these notebooks step by step. 
 
 ### Azure AutoML
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
