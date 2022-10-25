@@ -1,8 +1,8 @@
 # Audio Analytics with Azure ML and AutoML for Images
 
-Audio processing can consist of extracting audio signal information into spectrograms (time vs frequency vs Db) images that we can use to build a custom vision model with Azure using AutoML for Images. 
+**Audio processing** can consist of extracting audio signal information into **spectrograms** (time vs frequency vs Db) images that we can use to build a **custom vision model with Azure using AutoML for Images.**
 
-We can extract some audio features as well and use a generic classification model with Azure ML and its AutoML capabilities to find the best model.
+We can **extract some audio features** as well and use a **generic classification model with Azure ML and its AutoML capabilities** to find the best model.
 
 ## AI Show Audio Analytics demo<br>
 <a href="https://aka.ms/AIShow/AudioAnalytics">
